@@ -24,6 +24,8 @@ import org.apache.ibatis.reflection.ExceptionUtil;
 import org.apache.ibatis.session.SqlSession;
 
 /**
+ * MapperProxy的目的是什么？
+ * 
  * @author Clinton Begin
  * @author Eduardo Macarron
  */
